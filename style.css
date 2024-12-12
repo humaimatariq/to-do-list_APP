@@ -1,0 +1,47 @@
+.all {
+
+    margin: 100px;
+}
+.top {
+    padding: 30px;
+    background-color: skyblue;
+}
+input {
+    width: 75%;
+    height: 33px;
+    border: none;
+}
+input:focus {
+    outline: none;
+    border: none;
+}
+.task-div {
+    border: solid;
+    border-color: rgb(168, 166, 166);
+    border-bottom: none;
+    background-color: rgb(186, 196, 193);
+    padding-left: 30px;
+    padding-bottom: 14px;
+
+}
+#head {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.btn1 {
+    height: 35px;
+    width: 20%;
+    background-color: rgb(186, 196, 193);
+    border: none;
+    padding: 0px;
+    position: relative;
+    right: 5px;
+}
+.btn2 {
+    border: none;
+    width: 7%;
+    height: 32px;
+    float: right;
+    color: rgb(102, 99, 99);
+}
